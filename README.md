@@ -13,7 +13,7 @@ I am a second year computer science student, majoring in cybersecurity 😃. Her
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-## Projects
+## Personal Projects
 - Caesar Cipher Encryption System
 - To-do List
 - [ONGOING] Keylogger
